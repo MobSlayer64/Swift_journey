@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Xcode
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+**/xcuserdata/
+*.xcscmblueprint
+
+# Swift playgrounds user data
+*.xcworkspace/xcuserdata/
+
+# AppCode
+.idea/
+
+# Swift Package Manager
+.build/
