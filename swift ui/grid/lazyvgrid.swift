@@ -2,7 +2,7 @@
 //  lazyvgrid.swift
 //  MyApp
 //
-//  Created by iOS SDP Mac93 on 12/10/26.
+//  Created by MobSlayer64 on 12/10/26.
 //
 
 import SwiftUI

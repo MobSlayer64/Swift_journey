@@ -2,7 +2,7 @@
 //  destinationcard.swift
 //  MyApp
 //
-//  Created by iOS SDP Mac93 on 30/09/26.
+//  Created by MobSlayer64 on 30/09/26.
 //
 
 

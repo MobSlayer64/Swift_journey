@@ -2,7 +2,7 @@
 //  campusevent.swift
 //  MyApp
 //
-//  Created by iOS SDP Mac93 on 06/10/26.
+//  Created by MobSlayer64 on 06/10/26.
 //
 
 import Foundation
